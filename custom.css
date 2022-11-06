@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
 
 #red-ui-header{
-        background: #5e4893;
         color: #fff;
         height: 64px;
         padding-left: 16px;
@@ -9,7 +8,6 @@
         align-items: center;
         display: flex;
         justify-content: space-between;
-        display: none;
 }
 
 #red-ui-main-container{
@@ -72,8 +70,8 @@
 }
 
 */
+*
 #red-ui-header #red-ui-header-button-deploy.disabled{
-        background: #5e4893;
         color: #fff;
 }
 /*
