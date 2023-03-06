@@ -168,11 +168,11 @@ ol[id^='node-input-'] {
 .red-ui-tourGuide-shade {
     visibility: hidden;
 }
-
+/*
 .red-ui-popover-content {
     visibility: hidden;
 }
-
+*/
 .red-ui-popover.red-ui-tourGuide-popover.red-ui-tourGuide-popover-full.red-ui-popover-inset {
     visibility: hidden;
 }
